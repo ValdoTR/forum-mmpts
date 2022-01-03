@@ -346,6 +346,11 @@
                  "value":"{{{ streamingUrl }}}"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen; autoplay; clipboard-write; encrypted-media; picture-in-picture"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
